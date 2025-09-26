@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at  https://github.com/devraza786
 
-- 💬 Ask me about **ReactJS**
+- 💬 Ask me about **ReactJS And JavaScript**
 
 - 📫 How to reach me **dev.razaurrehaman@gmail.com**
 
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/raza-ur-rehman786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/raza-ur-rehman786" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@dev_razaurreham1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@dev_razaurreham1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/dev_razaurreham1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@dev_razaurreham1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
